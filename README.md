@@ -19,8 +19,6 @@ Estudante de Análise e Desenvolvimento de Sistemas.
 </div>
 
 ---
+![Martins Stats](https://github-readme-stats.vercel.app/api?username=MartinsNeto80&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsNeto80&layout=compact&langs_count=16&theme=dark)
 
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinsNeto80&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=MartinsNeto80&show_icons=true&show_icons=true&theme=bear&count_private=true" />
-</div>
